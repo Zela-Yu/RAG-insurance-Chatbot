@@ -1,0 +1,227 @@
+[
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Coverage Period: 01/01/2024 \u2013 12/31/2024",
+    "topic": "coverage period"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "PSM Health Plan: 5,000 HSA Plan Option",
+    "topic": "plan details"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Coverage for: All Coverage Levels | Plan Type: Traditional",
+    "topic": "coverage levels"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "What is the overall deductible? $5,000/individual or $10,000/family",
+    "topic": "deductible"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Are there services covered before you meet your deductible? Yes. Preventive care services are covered before you meet your deductible.",
+    "topic": "coverage before deductible"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Are there other deductibles for specific services? No.",
+    "topic": "specific service deductibles"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "What is the out-of-pocket limit for this plan? $6,550/individual or $13,100/family",
+    "topic": "out-of-pocket limit"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "What is not included in the out-of-pocket limit? Premiums, balanced-billing charges, and health care this plan doesn\u2019t cover.",
+    "topic": "out-of-pocket limit exclusions"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Will you pay less if you use a network provider? No network restrictions.",
+    "topic": "network coverage"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Do you need a referral to see a specialist? No. You don\u2019t need a referral to see a specialist.",
+    "topic": "referral requirements"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Primary care visit to treat an injury or illness Professional Fees: 20% after deductible",
+    "topic": "primary care visit cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Specialist visit Professional Fees: 20% after deductible",
+    "topic": "specialist visit cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Chiropractic Care Professional Fees: 20% after deductible 20 visit limitations on Chiropractic Care",
+    "topic": "chiropractic care cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Preventive care/screening/ immunization 0% coinsurance",
+    "topic": "preventive care cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Diagnostic test (blood work) Facility: 20% of plan allowable, deductible does not apply Professional Fees: 20% after deductible",
+    "topic": "diagnostic test cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Imaging (X-Ray, CT/PET scans, MRIs) Facility: 20% of plan allowable, deductible does not apply Professional Fees: 20% after deductible",
+    "topic": "imaging cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Generic drugs $15 co-pay after deductible",
+    "topic": "generic drug cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Preferred brand drugs $65 co-pay after deductible",
+    "topic": "preferred brand drug cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Non-preferred brand drugs $100 co-pay after deductible",
+    "topic": "non-preferred brand drug cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Specialty drugs Excluded",
+    "topic": "specialty drug coverage"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Facility fee (e.g., ambulatory surgery center) Facility: 20% of plan allowable, deductible does not apply",
+    "topic": "facility fee cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Physician/surgeon fees Professional Fees: 20% after deductible",
+    "topic": "physician/surgeon fees"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Emergency room care Facility: 20% of plan allowable, deductible does not apply",
+    "topic": "emergency room care cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Emergency medical transportation 20% after deductible",
+    "topic": "emergency medical transportation cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Urgent care Professional Fees: 20% after deductible",
+    "topic": "urgent care cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Facility fee (e.g., hospital room) Facility: 20% of plan allowable, deductible does not apply",
+    "topic": "hospital room cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Physician/surgeon fees Professional Fees: 20% after deductible",
+    "topic": "hospital physician/surgeon fees"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Outpatient services Deductible/Coinsurance",
+    "topic": "outpatient mental health cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Inpatient services Deductible/Coinsurance",
+    "topic": "inpatient mental health cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Office visits Professional Fees: 20% after deductible",
+    "topic": "childbirth office visits cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Childbirth/delivery professional services Professional Fees: 20% after deductible",
+    "topic": "childbirth professional services cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Childbirth/delivery facility services Facility: 20% of plan allowable, deductible does not apply",
+    "topic": "childbirth facility services cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Home health care 20% after deductible,",
+    "topic": "home health care cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Rehabilitation services 20% after copayment, per visit",
+    "topic": "rehabilitation services cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Habilitation services 20% after copayment, per visit",
+    "topic": "habilitation services cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Skilled nursing care Facility: 20% of plan allowable, deductible does not apply",
+    "topic": "skilled nursing care cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Durable medical equipment 20% after deductible",
+    "topic": "durable medical equipment cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Hospice services 20% after deductible",
+    "topic": "hospice services cost"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Children\u2019s eye exam Not covered",
+    "topic": "children's eye exam coverage"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Children\u2019s glasses Not covered",
+    "topic": "children's glasses coverage"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Children\u2019s dental check-up Not covered",
+    "topic": "children's dental check-up coverage"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Services Your Plan Generally Does NOT Cover: Acupuncture, Bariatric surgery, Cosmetic surgery, Dental care (Adult), Infertility treatments, Long-term care, Non-emergency care when traveling outside the U.S., Private-duty nursing, Routine foot care, Weight loss programs",
+    "topic": "exclusions"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Other Covered Services: Chiropractic Care, Durable medical equipment",
+    "topic": "other covered services"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Does this plan provide Minimum Essential Coverage? Yes",
+    "topic": "minimum essential coverage"
+  },
+  {
+    "plan": "America'S Choice 5000 Hsa Sob",
+    "chunk": "Does this plan meet the Minimum Value Standards? Yes",
+    "topic": "minimum value standards"
+  }
+]

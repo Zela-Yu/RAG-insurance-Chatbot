@@ -1,0 +1,272 @@
+[
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Coverage Period: 01/01/2024 \u2013 12/31/2024",
+    "topic": "coverage period"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "PSM Health Plan: 7,350 Plan Option",
+    "topic": "plan name"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "What is the overall deductible? $7,350/individual or $14,700/family",
+    "topic": "deductible"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Are there services covered before you meet your deductible? Yes. Preventive care services are covered before you meet your deductible.",
+    "topic": "coverage before deductible"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Are there other deductibles for specific services? No.",
+    "topic": "specific deductibles"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "What is the out-of-pocket limit for this plan? $7,350/individual or $14,700/family",
+    "topic": "out-of-pocket limit"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "What is not included in the out-of-pocket limit? Premiums, balanced-billing charges, and health care this plan doesn\u2019t cover.",
+    "topic": "out-of-pocket exclusions"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Will you pay less if you use a network provider? No network restrictions.",
+    "topic": "network restrictions"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Do you need a referral to see a specialist? No. You don\u2019t need a referral to see a specialist.",
+    "topic": "referral for specialist"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Primary care visit to treat an injury or illness $25 copay/visit",
+    "topic": "copay"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Specialist visit $45 copay/visit",
+    "topic": "copay"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Preventive care/screening/ immunization 0% coinsurance",
+    "topic": "coinsurance"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Diagnostic test (blood work) Facility: 0% of plan allowable, deductible does not apply",
+    "topic": "coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Diagnostic test (blood work) Professional Fees: 0% after deductible",
+    "topic": "coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Imaging (X-Ray, CT/PET scans, MRIs) Facility: 0% of plan allowable, deductible does not apply",
+    "topic": "coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Imaging (X-Ray, CT/PET scans, MRIs) Professional Fees: 0% after deductible",
+    "topic": "coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Generic drugs America\u2019s Pharmacy Source",
+    "topic": "prescription coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Preferred brand drugs America\u2019s Pharmacy Source",
+    "topic": "prescription coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Non-preferred brand drugs Not covered",
+    "topic": "prescription coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Specialty drugs Not covered",
+    "topic": "prescription coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Facility fee (e.g., ambulatory surgery center) Facility: 0% of plan allowable, deductible does not apply",
+    "topic": "coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Facility fee (e.g., ambulatory surgery center) Failure to obtain precertification will result in a 50% benefit reduction ($2,500 maximum).",
+    "topic": "precertification"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Physician/surgeon fees Professional Fees: 0% after deductible",
+    "topic": "coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Emergency room care Facility: 0% of plan allowable, deductible does not apply",
+    "topic": "coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Emergency room care Professional Fees: 0% after deductible",
+    "topic": "coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Emergency medical transportation 0% after deductible",
+    "topic": "coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Urgent care $60 copay/visit",
+    "topic": "copay"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Facility fee (e.g., hospital room) Facility: 0% of plan allowable, deductible does not apply",
+    "topic": "coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Facility fee (e.g., hospital room) Failure to obtain precertification will result in a 50% benefit reduction ($2,500 maximum).",
+    "topic": "precertification"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Physician/surgeon fees Professional Fees: 0% after deductible",
+    "topic": "coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Outpatient services $25 copay/visit",
+    "topic": "copay"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Inpatient services Deductible/Coinsurance",
+    "topic": "coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Inpatient services Failure to obtain precertification will result in a 50% benefit reduction ($2,500 maximum).",
+    "topic": "precertification"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Childbirth/delivery professional services Professional Fees: 0% after deductible",
+    "topic": "coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Childbirth/delivery facility services Facility: 0% of plan allowable, deductible does not apply",
+    "topic": "coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Home health care 0% after deductible",
+    "topic": "coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Home health care Failure to obtain precertification will result in a 50% benefit reduction ($2,500 maximum).",
+    "topic": "precertification"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Rehabilitation services 0% after copayment, per visit",
+    "topic": "coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Rehabilitation services Limited to 20 visits per Calendar Year for physical, and occupational therapies each, 20 visits for Speech, 15 visits for Chiropractic.",
+    "topic": "visit limits"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Habilitation services 0% after copayment, per visit",
+    "topic": "coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Habilitation services Limited to 20 visits per Calendar Year, combined with the above therapies.",
+    "topic": "visit limits"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Skilled nursing care Facility: 0% of plan allowable, deductible does not apply",
+    "topic": "coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Skilled nursing care Limited to 60 days per Calendar Year. Failure to obtain precertification will result in a 50% benefit reduction ($2,500 maximum).",
+    "topic": "precertification and visit limits"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Durable medical equipment 0% after deductible",
+    "topic": "coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Durable medical equipment Failure to obtain precertification will result in a 50% benefit reduction ($2,500 maximum).",
+    "topic": "precertification"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Hospice services 0% after deductible",
+    "topic": "coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Hospice services Failure to obtain precertification will result in a 50% benefit reduction ($2,500 maximum).",
+    "topic": "precertification"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Children\u2019s eye exam Not covered",
+    "topic": "exclusions"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Children\u2019s glasses Not covered",
+    "topic": "exclusions"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Children\u2019s dental check-up Not covered",
+    "topic": "exclusions"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Services Your Plan Generally Does NOT Cover:\n\u2022 Acupuncture\n\u2022 Infertility treatments\n\u2022 Bariatric surgery \u2022 Private-duty nursing\n\u2022 Long-term care\n\u2022 Cosmetic surgery \u2022 Routine foot care\n\u2022 Non-emergency care when traveling outside the\n\u2022 Dental care (Adult) \u2022 Weight loss programs\nU.S.",
+    "topic": "exclusions"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Other Covered Services:\n\u2022 Chiropractic Care \u2022 Durable medical equipment",
+    "topic": "other covered services"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Does this plan provide Minimum Essential Coverage? Yes",
+    "topic": "minimum essential coverage"
+  },
+  {
+    "plan": "America'S Choice 7350 Copper Sob",
+    "chunk": "Does this plan meet the Minimum Value Standards? Yes",
+    "topic": "minimum value standards"
+  }
+]
