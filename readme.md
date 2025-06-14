@@ -43,8 +43,6 @@ http://127.0.0.1:8000/
 
 
 
-
-
 ## Summary
 
 This chatbot currently supports accurate question answering based on the content of insurance PDFs and Word documents. It avoids hallucination, if the information is not found in the documents, the system returns "I don't know" instead of guessing.  
